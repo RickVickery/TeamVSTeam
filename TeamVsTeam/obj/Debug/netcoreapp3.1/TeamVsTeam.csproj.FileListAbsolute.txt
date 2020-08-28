@@ -1,0 +1,13 @@
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.exe
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.deps.json
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.runtimeconfig.json
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.runtimeconfig.dev.json
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.dll
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\bin\Debug\netcoreapp3.1\TeamVsTeam.pdb
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.csprojAssemblyReference.cache
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.csproj.CoreCompileInputs.cache
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.AssemblyInfoInputs.cache
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.AssemblyInfo.cs
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.dll
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.pdb
+C:\Users\RVICKERY\source\repos\TeamVsTeam\TeamVsTeam\obj\Debug\netcoreapp3.1\TeamVsTeam.genruntimeconfig.cache
