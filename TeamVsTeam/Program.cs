@@ -568,6 +568,18 @@ namespace TeamVsTeam
             GenerateHeros();
             GenerateEnemies();
         }
+
+        public static void Ideas()
+        {
+            //Equipment
+            //Multiple actions per turn, RNG, growth dependent
+            //Special Abilities (Unlockable from wearing equipment long enough?)
+            //DayClass or TimeTracker, add events on certain days (supplies, provisions, funds from main base) (bonus loot nights) (no enemy nights, low enemy nights, extra enemy nights, boss nights) 
+            //Scouts are free, only usable every other day
+            //Reduce the number of enters pressed
+            //For loop with delay + setcursor in place to overwrite and count up in place for GP or EXP visual?
+            //Look at team displays in the combatphase()
+        }
         public static void MoveToRear()
         {
             Team.team.Add(Team.team[0]);
